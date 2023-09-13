@@ -1,0 +1,797 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\resumePresentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\resumePresentation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\css\\front2-hw\\1688483382665-oneplpherobannermobile1500x1600pxjpg_1600x1500.jpg",
+      "PackagePath": "staticwebassets\\css\\front2-hw\\1688483382665-oneplpherobannermobile1500x1600pxjpg_1600x1500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\css\\front2-hw\\F2.css",
+      "PackagePath": "staticwebassets\\css\\front2-hw\\F2.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\.idea\\modules.xml",
+      "PackagePath": "staticwebassets\\siteSample\\.idea\\modules.xml"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\.idea\\workspace.xml",
+      "PackagePath": "staticwebassets\\siteSample\\.idea\\workspace.xml"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\demo\\iconClose.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\demo\\iconClose.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\demo\\iconSideMenu.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\demo\\iconSideMenu.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\demo\\plugins-demo.js",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\demo\\plugins-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\demo\\style-demo.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\demo\\style-demo.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Bold.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Bold.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Italic.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Italic.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Medium.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Medium.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-MediumItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-MediumItalic.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-MediumItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Regular.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-Regular.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-SemiBold.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-SemiBoldItalic.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-SemiBoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\Inter-SemiBoldItalic.woff2",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\Inter-SemiBoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\font\\inter.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\font\\inter.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-angry.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-angry.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-bad.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-bad.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-crazy.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-crazy.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-happy-2.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-happy-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-happy-3.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-happy-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-happy.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-happy.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-in-love.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-in-love.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-laughing.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-laughing.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-nerd.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-nerd.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-pressure.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-pressure.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-sad-2.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-sad-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-sad.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-sad.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-shocked-2.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-shocked-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-shocked-3.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-shocked-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-shocked.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-shocked.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-sweating.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-sweating.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-thinking.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-thinking.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\emoji\\emoji-wink.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\emoji\\emoji-wink.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icomoona4a1.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icomoona4a1.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icomoona4a1.ttf",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icomoona4a1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icomoona4a1.woff",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icomoona4a1.woff"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-app.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-app.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-design.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-design.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-dev.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-education.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-education.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-experience.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-experience.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-news.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-news.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-photo.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\icons\\style.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\icons\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\favicons\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\favicons\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\favicons\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\favicons\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\favicons\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\favicons\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\favicons\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\favicons\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\favicons\\favicon.png",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\favicons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\icon-map-pic.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\icon-map-pic.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\nav-edge.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\nav-edge.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\social.html",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\social.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\triangle-bottom.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\triangle-bottom.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\triangle-top.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\triangle-top.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\triangles-bottom-2.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\triangles-bottom-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\images\\triangles-top-2.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\images\\triangles-top-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_01.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_02.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_03.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_04.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_05.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_06.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_07.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_08.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\image_09.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\image_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\logo-partner.svg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\logo-partner.svg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\img\\vecteezy_abstract-blue-fluid-wave-background_.jpg",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\img\\vecteezy_abstract-blue-fluid-wave-background_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\js\\common.js",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\js\\mapbox.init.js",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\js\\mapbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\style-rtl-demo.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\style-rtl-demo.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\style-rtl.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\style-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\style.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\vendors\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\vendors\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\vendors\\rtl\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\vendors\\rtl\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\vendors\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\vendors\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\assets\\styles\\vendors\\swiper.min.css",
+      "PackagePath": "staticwebassets\\siteSample\\assets\\styles\\vendors\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\about.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\background-2.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\background-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\background-3.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\background-3.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\background-4.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\background-4.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\background-5.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\background-5.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\background-6.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\background-6.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\blog.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\contact.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\one-page.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\one-page.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\portfolio.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\portfolio.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\resume.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\resume.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full-rtl\\single-post.html",
+      "PackagePath": "staticwebassets\\siteSample\\full-rtl\\single-post.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\about.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\background-2.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\background-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\background-3.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\background-3.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\background-4.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\background-4.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\background-5.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\background-5.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\background-6.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\background-6.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\blog.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\contact.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\one-page.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\one-page.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\portfolio.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\portfolio.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\resume.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\resume.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\full\\single-post.html",
+      "PackagePath": "staticwebassets\\siteSample\\full\\single-post.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\about.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\background-2.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\background-2.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\background-3.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\background-3.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\background-4.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\background-4.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\background-5.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\background-5.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\background-6.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\background-6.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\blog.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\contact.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\full-rtl\\about.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\full-rtl\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\one-page.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\one-page.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\portfolio.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\portfolio.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\resume.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\resume.html"
+    },
+    {
+      "Id": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\wwwroot\\siteSample\\rtl\\single-post.html",
+      "PackagePath": "staticwebassets\\siteSample\\rtl\\single-post.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.resumePresentation.props",
+      "PackagePath": "build\\resumePresentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.resumePresentation.props",
+      "PackagePath": "buildMultiTargeting\\resumePresentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.resumePresentation.props",
+      "PackagePath": "buildTransitive\\resumePresentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.resumePresentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

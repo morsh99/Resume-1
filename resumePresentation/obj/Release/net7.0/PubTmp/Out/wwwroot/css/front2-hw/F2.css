@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainPage {
+    height: unset;
+    width: 100%;
+    background-color: #f0e6ee;
+}
+
+.container {
+    display: flex;
+    height: 520px;
+    width: 800px;
+}
+
+.details {
+    width: 50%;
+    height: 100%;
+    background-color: #ffffff;
+    padding: 45px;
+    border-radius: 0 16px 16px 0;
+}
+
+.title {
+    color: #000000;
+    font-size: 42px;
+    font-weight: bolder;
+    margin: 0 0 15px 0;
+}
+
+.subTitle {
+    color: #666565;
+    margin: 0 0 15px 0;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subTitle2 {
+    color: #666565;
+    margin: 0 0 15px 0;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.numbers {
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.numberContainer {
+    width: 50%;
+}
+
+.numbersTitle {
+    color: #41806d;
+    font-weight: bold;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.numberSubtitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #666565;
+}
+
+.image {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px 0 0 16px;
+    z-index: 0;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 100%;
+    height: 60px;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #41806d;
+    border-color: #ffffff;
+    border-radius: 10px;
+}
+
+@media (max-width: 700px) {
+    /* For mobile phones: */
+
+    .container {
+        flex-direction: column;
+        height: 800px;
+        width: 360px;
+    }
+
+    .image {
+        width: 100%;
+        height: 30%;
+    }
+
+    .details {
+        width: 100%;
+        height: 70%;
+        background-color: #ffffff;
+        padding: 45px;
+        border-radius: 0 0 16px 16px;
+    }
+
+    .img {
+        background-size: cover;
+        border-radius: 16px 16px 0 0;
+    }
+
+    .numberContainer {
+        width: 80%;
+    }
+}
