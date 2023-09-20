@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\resumePresentation.csproj",
+      "projectUniqueName": "C:\\Users\\sharifi\\ASP.NET\\resume\\resumePresentation\\resumePresentation.csproj",
       "projectName": "resumePresentation",
-      "projectPath": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\resumePresentation.csproj",
+      "projectPath": "C:\\Users\\sharifi\\ASP.NET\\resume\\resumePresentation\\resumePresentation.csproj",
       "packagesPath": "C:\\Users\\sharifi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sharifi\\ASP.NET\\mordad\\resume\\resumePresentation\\obj\\",
+      "outputPath": "C:\\Users\\sharifi\\ASP.NET\\resume\\resumePresentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

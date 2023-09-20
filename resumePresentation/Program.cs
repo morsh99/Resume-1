@@ -28,7 +28,7 @@ namespace resumePresentation
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=About}/{action=Index}/{id?}");
 
             app.Run();
         }
