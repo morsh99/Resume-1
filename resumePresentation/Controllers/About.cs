@@ -8,5 +8,10 @@ namespace resumePresentation.Controllers
 		{
 			return View();
 		}
+
+		public IActionResult Salam()
+		{
+			return View();
+		}
 	}
 }

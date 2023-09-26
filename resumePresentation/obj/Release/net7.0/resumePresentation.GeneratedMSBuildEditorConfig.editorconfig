@@ -9,57 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = resumePresentation
 build_property.RootNamespace = resumePresentation
-build_property.ProjectDir = C:\Users\sharifi\ASP.NET\mordad\resume\resumePresentation\
+build_property.ProjectDir = C:\Users\sharifi\ASP.NET\resume\resumePresentation\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sharifi\ASP.NET\mordad\resume\resumePresentation
+build_property.MSBuildProjectDirectory = C:\Users\sharifi\ASP.NET\resume\resumePresentation
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/About/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Blog/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/About/salam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcc2FsYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Contact/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/front2_hw/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/front2_hw/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZnJvbnQyX2h3XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Home/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Home/Privacy.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Portfolio/Index.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Portfolio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Shared/Error.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/resume/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVzdW1lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/_ViewImports.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/_ViewStart.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sharifi/ASP.NET/mordad/resume/resumePresentation/Views/Shared/_Layout.cshtml]
+[C:/Users/sharifi/ASP.NET/resume/resumePresentation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ghzpiji277

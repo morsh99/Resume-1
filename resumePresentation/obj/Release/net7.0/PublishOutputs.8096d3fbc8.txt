@@ -1,0 +1,7 @@
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\resumePresentation.exe
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\resumePresentation.dll
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\resumePresentation.deps.json
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\resumePresentation.runtimeconfig.json
+C:\Users\sharifi\ASP.NET\resume\resumePresentation\obj\Release\net7.0\PubTmp\Out\resumePresentation.pdb

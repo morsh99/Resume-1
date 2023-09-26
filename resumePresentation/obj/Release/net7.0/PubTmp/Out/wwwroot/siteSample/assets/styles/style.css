@@ -121,16 +121,37 @@ html.is-scroll-disabled body {
   }
 }
 .bg-triangles-2 {
-  background-image: url(../images/triangles-top-2.svg), url(../images/triangles-bottom-2.svg);
-  background-position: left top, right bottom;
-  background-repeat: no-repeat;
-  background-size: inherit;
+    background-image: url(../images/triangles-top-2.svg), url(../images/triangles-bottom-2.svg);
+    background-position: left top, right bottom;
+    background-repeat: no-repeat;
+    background-size: inherit;
 }
 @media only screen and (max-width: 580px) {
   .bg-triangles-2 {
     background-size: contain;
   }
 }
+
+
+
+
+.bg-grandient {
+    background-image: url(../images/quantum-gradient.svg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 580px) {
+    .bg-grandient {
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+
+
+
 .bg-peach {
   background-image: linear-gradient(111.59deg, #FFF2E7 0%, #FFCADA 99.08%);
   background-attachment: fixed;
